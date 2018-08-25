@@ -1,2 +1,2 @@
 # seminario
-Practica React: Components, conditional rendering, proptypes, inline styles
+Práctica React para la materia Seminario en sistemas aplicados : Components, conditional rendering, proptypes, inline styles
